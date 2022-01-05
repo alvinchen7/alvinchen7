@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alvinchen7
 - 👀 I’m interested in learning software development
 - 🌱 I’m currently learning foundations on odin project
-- 💞️ I’m looking to collaborate on exercises in the future
+- 💞️ I’m looking to work with like minded learners and collaborate together on projects
 - 📫 My contact is alvinchengh@gmail.com
 
 <!---
